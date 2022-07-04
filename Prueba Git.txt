@@ -5,3 +5,16 @@ Ahora escribo esto para seguir probando cosas raras.
 
 
 Siguiente cambio para seguir estudiando
+<<<<<<< HEAD
+=======
+
+Agregado 1
+
+Agregado 2
+
+Agregado 3
+
+Agregado 4
+
+Yapus
+>>>>>>> cabecera
